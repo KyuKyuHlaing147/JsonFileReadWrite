@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Food1",
+        "price": "13000",
+        "photo": "photo\/sushi1.jpg"
+    },
+    {
+        "name": "Food2",
+        "price": "15500",
+        "photo": "photo\/sushi2.jpg"
+    },
+    {
+        "name": "Food3",
+        "price": "20000",
+        "photo": "photo\/sushi4.jpg"
+    },
+    {
+        "name": "Food4",
+        "price": "16000",
+        "photo": "photo\/sushi5.jpg"
+    },
+    {
+        "name": "Food5",
+        "price": "21000",
+        "photo": "photo\/sushi6.jpg"
+    },
+    {
+        "name": "Food6",
+        "price": "17500",
+        "photo": "photo\/sushi7.jpg"
+    },
+    {
+        "name": "Food7",
+        "price": "23000",
+        "photo": "photo\/img2.jpg"
+    },
+    {
+        "name": "Food8",
+        "price": "13400",
+        "photo": "photo\/img1.jpg"
+    }
+]

@@ -1,0 +1,96 @@
+
+/*footer*/
+.footer_color{
+	background-color: #333333;
+}
+.footer_nav li{
+	display: inline;	
+
+}
+.footer_nav a{
+	color:#6c757d;
+}
+
+.footer_nav a:hover{
+	color:#D2691E;
+	text-decoration: none;
+}
+
+
+/*carousel indicator*/
+.carousel-indicators li {
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+}
+
+/*carousel text*/
+.carousel_text{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	background-color: rgba(0,0,0,0.5);
+	width: 70%;
+	height: auto;
+	color:#fff;
+}
+
+.carousel_text1{
+	position: absolute;
+	top: 250px;
+	left: 400px;
+	width: 70%;
+	height: auto;
+}
+
+
+/*3 image border radius*/ 
+.image_border_radius{
+	border-radius: 20%;
+}
+
+/*learn more*/
+.button{
+	text-align: center;
+}
+
+.font_color{
+	color:#D2691E;
+	text-shadow: 1px 0px 0px black;
+}
+
+/*background image*/
+/* .background_img{
+	background-image: url(../../images/banner.jpg);
+	height: 50%;
+
+  Center and scale the image nicely
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+} */
+
+/*learn*/
+.img-animate{
+	width: 200px;
+	height: 150px;
+}
+.learn_bg_color{
+	background-color: white;
+}
+
+/*background photo for supply and map*/
+.bg_for_map{
+	background-image: url(../../images/banner.jpg);
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.supply{
+	width: 40%;
+	height: auto;
+	margin:auto;
+	font-size: 1.5rem;
+	background-color: white;
+}
